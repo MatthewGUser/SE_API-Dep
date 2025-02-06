@@ -19,8 +19,11 @@ pip install -r requirements.txt
 ## Environment Variables
 
 Create `.env` file with:
+
+```
 DATABASE_URL=your_postgresql_url
 SECRET_KEY=your_secret_key
+```
 
 ## Deployment
 
