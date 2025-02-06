@@ -9,7 +9,7 @@ app.config.update({
         'title': 'Your API',
         'uiversion': 3,
         'specs_route': '/swagger/',
-        'host': 'your-app-name.onrender.com',
+        'host': 'se-api-dep.onrender.com',
         'schemes': ['https']
     }
 })
