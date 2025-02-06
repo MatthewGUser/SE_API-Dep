@@ -1,5 +1,5 @@
 from app import create_app
-from app.models import db
+from app.db import db
 from app.config import config
 
 app = create_app(config['production'])
